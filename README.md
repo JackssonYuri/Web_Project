@@ -1,4 +1,4 @@
-# Web_Project
+# Web Project
 
 A extração de informações de sites pode ser muito útil para algumas necessidades.
 Nesse projeto utilizo duas das principais bibliotecas utilizadas para esse fim: 
